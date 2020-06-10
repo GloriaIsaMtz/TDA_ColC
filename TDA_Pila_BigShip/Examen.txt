@@ -1,0 +1,4 @@
+El examen es facil tienen que rehacer el ejercicio de pilas.
+Donde hacen herraminetas apartir de madera, hilo, y resina.
+Pero la clase pila en lugar de usar un vector, reimplementenla con
+una lista enlazada o una doble enlazada lo dejo a su criterio
